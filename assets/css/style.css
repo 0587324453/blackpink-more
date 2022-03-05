@@ -236,8 +236,9 @@ html {
 }
 
 #content .member-item {
-    width: calc(100% / 4);
+    /* width: calc(100% / 4); */
     text-align: center; 
+    width: 33.33333%; 
 
 }
 
